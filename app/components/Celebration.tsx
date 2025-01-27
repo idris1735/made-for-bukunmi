@@ -140,8 +140,8 @@ export default function Celebration({ food, gifts }: CelebrationProps) {
             <h2 className='text-3xl font-bold text-red-600 mb-2'>
               Valentine's Invoice
             </h2>
-            <p className='text-gray-600'>Date: February 14, 2024</p>
-            <p className='text-gray-600'>Invoice #: LOVE-2024-001</p>
+            <p className='text-gray-600'>Date: February 14, 2025</p>
+            <p className='text-gray-600'>Invoice #: LOVE-2025-001</p>
           </div>
 
           <div className='mb-6'>
